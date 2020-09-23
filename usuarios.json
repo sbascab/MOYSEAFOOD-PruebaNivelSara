@@ -1,0 +1,40 @@
+{
+    "usuarios": [
+        {
+            "name": "Sara",
+            "username": "Sara1",
+            "email": "Sara1@email.com",
+            "phone": "999112233"
+        },
+        {
+            "name": "Paco",
+            "username": "Paco1",
+            "email": "Paco1@email.com",
+            "phone": "999223344"
+        },
+        {
+            "name": "Francisco",
+            "username": "Paco2",
+            "email": "Paco2@email.com",
+            "phone": "999334455"
+        },
+        {
+            "name": "Enrique",
+            "username": "Enrique1",
+            "email": "Enrique1@email.com",
+            "phone": "999445566"
+        },
+        {
+            "name": "Lurdes",
+            "username": "Lurdes1",
+            "email": "Lurdes1@email.com",
+            "phone": "999556677"
+        },
+        {
+            "name": "Antonio",
+            "username": "Toni1",
+            "email": "Toni1@email.com",
+            "phone": "999667788"
+        }
+    ]
+}
