@@ -13,3 +13,12 @@ export default new Vuex.Store({
   modules: {
   }
 })
+
+// var mydata = JSON.parse(usuarios);
+// const listausu = new Vue({
+//     el: '#lista-usuarios',
+//     data: {
+//         nombre: mydata[0].username
+//     }
+
+// })
